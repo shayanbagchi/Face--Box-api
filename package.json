@@ -4,7 +4,7 @@
   "description": "backend of Face-Box-App",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
